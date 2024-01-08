@@ -12,6 +12,6 @@ Created using
 
 ### Screenshots
 
-![](https://github.com/shishirchulliyil/mymojo/auth.png)
-![](https://github.com/shishirchulliyil/mymojo/journal.png)
-![](https://github.com/shishirchulliyil/mymojo/history.png)
+![auth](https://github.com/shishirchulliyil/mymojo/auth.png)
+![journal](https://github.com/shishirchulliyil/mymojo/journal.png)
+![history](https://github.com/shishirchulliyil/mymojo/history.png)
