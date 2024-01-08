@@ -11,3 +11,7 @@ Created using
 5. Lanchain-js and OpenAI Apis for interacting with LLM
 
 ### Screenshots
+
+![](https://github.com/shishirchulliyil/mymojo/blob/main/auth.png?raw=true)
+![](https://github.com/shishirchulliyil/mymojo/blob/main/journal.png?raw=true)
+![](https://github.com/shishirchulliyil/mymojo/blob/main/history.png?raw=true)
