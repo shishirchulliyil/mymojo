@@ -2,9 +2,11 @@ export type Analysis = {
   createdAt: Date;
   updatedAt: Date;
   mood: string;
+  subject: string;
   summary: string;
   color: string;
   negative: boolean;
+  sentimentScore: number;
 };
 
 export type Entry = {
@@ -13,5 +15,5 @@ export type Entry = {
   updatedAt: Date;
   userId: string;
   content: string;
-  analysis?: Analysis;
+  analysis: Analysis | null;
 };
